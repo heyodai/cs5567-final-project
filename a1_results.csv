@@ -1,3 +1,2 @@
-num_epochs,learn_rate,test_accuracy
-10,0.001,0.7015
-10,0.0001,0.6631
+test_accuracy,num_epochs,learn_rate,conv_layers,fc_layers,pool_size
+0.7245,10,0.001,"[{""in_channels"": 3, ""out_channels"": 32, ""kernel_size"": 3, ""padding"": 1}, {""in_channels"": 32, ""out_channels"": 64, ""kernel_size"": 3, ""padding"": 1}]","[{""in_features"": 4096, ""out_features"": 512}, {""in_features"": 512, ""out_features"": 10}]","(2, 2)"

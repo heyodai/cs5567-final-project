@@ -5,9 +5,9 @@
 - [x] Assistance is available anytime; don't hesitate to ask for help.
 
 #### Required Files:
-- [ ] **Download**: Obtain "Final.zip", which includes necessary Jupyter Notebook (.ipynb) files.
-- [ ] **Setup**: Load the provided scripts in Google Colab or your local Python workspace. If you need help setting up your workspace, please ask.
-- [ ] **Data Handling**: Most data will be loaded via scripts; however, some data integration will be required. Numerous examples and helpful links are provided in the scripts.
+- [x] **Download**: Obtain "Final.zip", which includes necessary Jupyter Notebook (.ipynb) files.
+- [x] **Setup**: Load the provided scripts in Google Colab or your local Python workspace. If you need help setting up your workspace, please ask.
+- [x] **Data Handling**: Most data will be loaded via scripts; however, some data integration will be required. Numerous examples and helpful links are provided in the scripts.
 
 #### Project Parts and Experiments:
 - [ ] **Parts A & B**: Detailed in the Experiments table below.
@@ -20,7 +20,7 @@
 #### Part A: Utilizing Pre-Trained Feature Layers
 
 1. **End-to-End Classification (Color Images)**
-   - [ ] **Dataset**: CIFAR-10
+   - [x] **Dataset**: CIFAR-10
    - [ ] **Task**: Build and train a custom image classification model.
    - [ ] **Approach**: Use informed decision-making rather than exhaustive grid search for setting hyperparameters.
    - [ ] **Results**: Track and record performance metrics. Save your model as it will be required for future experiments.

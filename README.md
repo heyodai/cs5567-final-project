@@ -21,9 +21,9 @@
 
 1. **End-to-End Classification (Color Images)**
    - [x] **Dataset**: CIFAR-10
-   - [ ] **Task**: Build and train a custom image classification model.
-   - [ ] **Approach**: Use informed decision-making rather than exhaustive grid search for setting hyperparameters.
-   - [ ] **Results**: Track and record performance metrics. Save your model as it will be required for future experiments.
+   - [x] **Task**: Build and train a custom image classification model.
+   - [x] **Approach**: Use informed decision-making rather than exhaustive grid search for setting hyperparameters.
+   - [x] **Results**: Track and record performance metrics. Save your model as it will be required for future experiments.
 
 2. **Transfer Learning**
    - [ ] **Datasets**: CIFAR-10, CIFAR-100, Tiny ImageNet
@@ -48,7 +48,7 @@
 2. **Segmentation with SegFormer**
    - [ ] **Process**: Tune the SegFormer model provided in the script on sample images from the included dataset. Record and analyze the segmentation performance.
 
-3. **Generative Models - [ ] Style Transfer**
+3. **Generative Models - Style Transfer**
    - [ ] **Task**: Apply artistic styles to your selected images using the provided style transfer tools. Submit your favorite transformed images for a class contest.
 
 #### Discussion Questions:

@@ -2,6 +2,8 @@
 runs/
 data/
 aquarium-dataset/
+models-too-big-for-github/*.pth
+part-b2/ADE20k_toy_dataset
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
